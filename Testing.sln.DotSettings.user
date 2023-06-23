@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dfa93616_002D8272_002D4c0d_002D9d1c_002Db1e690fcf7b3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" IsLocked="True" Name="Calculate_NoDiscount_ReturnTotal" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EAEF2BB3-5EED-44E1-8B36-FF97911752B3::net7.0::MSUnitTest.ProductCalculatorTest.Calculate_NoDiscount_ReturnTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EAEF2BB3-5EED-44E1-8B36-FF97911752B3::net7.0::MSUnitTest.ProductCalculatorTest.Calculate_DiscountedPrice&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EAEF2BB3-5EED-44E1-8B36-FF97911752B3::net7.0::MSUnitTest.ProductCalculatorTest.Calculate_throwDiscountMoreException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EAEF2BB3-5EED-44E1-8B36-FF97911752B3::net7.0::MSUnitTest.ProductCalculatorWithTestInitialize&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::EAEF2BB3-5EED-44E1-8B36-FF97911752B3::net7.0::MSUnitTest.ClassInitialize&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4192AF-9083-42C4-ADA6-DBAE031415FE::net7.0::NUnitTest.ProductCalculatorWithSetup&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::EC4192AF-9083-42C4-ADA6-DBAE031415FE::net7.0::NUnitTest.ClassSetup&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4B50B030-19CB-4CA2-8169-79C3238CC9A2::net7.0::XUnitTest.ProductCalculatorWithGivingManyAttributes&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4B50B030-19CB-4CA2-8169-79C3238CC9A2::net7.0::XUnitTest.ProductCalculateWithClassData.Calculations&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4B50B030-19CB-4CA2-8169-79C3238CC9A2::net7.0::XUnitTest.ProductCalculator.Calculate_NoDiscount_ReturnTotal&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::4B50B030-19CB-4CA2-8169-79C3238CC9A2::net7.0::XUnitTest.ProductCalculator&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,12 @@
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\bin\Debug\net7.0\ProductCalculator.deps.json
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\bin\Debug\net7.0\ProductCalculator.dll
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\bin\Debug\net7.0\ProductCalculator.pdb
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.csproj.AssemblyReference.cache
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.AssemblyInfoInputs.cache
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.AssemblyInfo.cs
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.dll
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\refint\ProductCalculator.dll
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ProductCalculator.pdb
+C:\Users\Muhammadjon\MarketPlace\Testing\ProductCalculator\obj\Debug\net7.0\ref\ProductCalculator.dll
